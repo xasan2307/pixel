@@ -360,9 +360,18 @@ img {
   margin: 0;
   padding: 0;
 }
+.footer_child{
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
 .footer_items {
+  margin: 2px;
   font-size: 16px;
   line-height: 24px;
+  text-decoration: none;
+  color: #ffffff;
 }
 .footer_items:hover {
   color: #00bafc;
